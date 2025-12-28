@@ -8,10 +8,11 @@
 ---
 
 ## 💜 About Me
-- 🔭 Currently focused on **DSA with C++**
+- 🔭 Currently focused on **Data Structures & Algorithms using C++**
 - 🌱 Learning **Advanced Algorithms & Competitive Programming**
-- 💡 Strong interest in **problem-solving & logic building**
-- 📫 Reach me at **devanshiagnihotri7@gmail.com**
+- 💡 Strong interest in **problem-solving and logic building**
+- 🚀 Actively building projects and improving GitHub profile
+- 📫 Reach me via **LinkedIn or GitHub**
 
 ---
 
@@ -20,7 +21,7 @@
 <a href="https://github.com/devanshi-beep" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
 </a>
-<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/devanshi-agnihotri-932056343/)" target="_blank">
+<a href="https://www.linkedin.com/in/devanshi-agnihotri-932056343/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
@@ -49,7 +50,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devanshi-beep&theme=darkhub&row=1&column=6"/>
 </p>
